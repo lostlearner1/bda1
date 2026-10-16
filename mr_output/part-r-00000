@@ -1,0 +1,85 @@
+Bangalore_Autumn_HUMIDITY	Avg=59.17% | Max=70.00% | Min=52.00% | Records=6
+Bangalore_Autumn_RAIN	Total=125.00mm | Avg=20.83mm | Max=60.00mm | Records=6
+Bangalore_Autumn_TEMP	Avg=23.17°C | Max=26.00°C | Min=20.50°C | Records=6
+Bangalore_Autumn_WIND	Avg=9.50km/h | Max=11.00km/h | Records=6
+Bangalore_Monsoon_HUMIDITY	Avg=78.25% | Max=85.00% | Min=72.00% | Records=12
+Bangalore_Monsoon_RAIN	Total=1580.00mm | Avg=131.67mm | Max=170.00mm | Records=12
+Bangalore_Monsoon_TEMP	Avg=25.79°C | Max=28.00°C | Min=24.00°C | Records=12
+Bangalore_Monsoon_WIND	Avg=10.88km/h | Max=12.00km/h | Records=12
+Bangalore_Summer_HUMIDITY	Avg=58.11% | Max=72.00% | Min=45.00% | Records=9
+Bangalore_Summer_RAIN	Total=370.00mm | Avg=41.11mm | Max=95.00mm | Records=9
+Bangalore_Summer_TEMP	Avg=31.72°C | Max=35.00°C | Min=27.00°C | Records=9
+Bangalore_Summer_WIND	Avg=14.33km/h | Max=16.50km/h | Records=9
+Bangalore_Winter_HUMIDITY	Avg=51.22% | Max=58.00% | Min=42.00% | Records=9
+Bangalore_Winter_RAIN	Total=0.00mm | Avg=0.00mm | Max=0.00mm | Records=9
+Bangalore_Winter_TEMP	Avg=21.22°C | Max=25.50°C | Min=19.00°C | Records=9
+Bangalore_Winter_WIND	Avg=8.44km/h | Max=11.00km/h | Records=9
+Chennai_Autumn_HUMIDITY	Avg=91.25% | Max=96.00% | Min=85.00% | Records=8
+Chennai_Autumn_RAIN	Total=2330.00mm | Avg=291.25mm | Max=420.00mm | Records=8
+Chennai_Autumn_TEMP	Avg=26.50°C | Max=28.50°C | Min=25.00°C | Records=8
+Chennai_Autumn_WIND	Avg=9.00km/h | Max=10.00km/h | Records=8
+Chennai_Monsoon_HUMIDITY	Avg=60.58% | Max=82.00% | Min=48.00% | Records=12
+Chennai_Monsoon_RAIN	Total=530.00mm | Avg=44.17mm | Max=150.00mm | Records=12
+Chennai_Monsoon_TEMP	Avg=32.13°C | Max=35.00°C | Min=29.50°C | Records=12
+Chennai_Monsoon_WIND	Avg=13.13km/h | Max=16.00km/h | Records=12
+Chennai_Summer_HUMIDITY	Avg=51.67% | Max=65.00% | Min=42.00% | Records=9
+Chennai_Summer_RAIN	Total=125.00mm | Avg=13.89mm | Max=45.00mm | Records=9
+Chennai_Summer_TEMP	Avg=35.61°C | Max=39.00°C | Min=30.00°C | Records=9
+Chennai_Summer_WIND	Avg=16.67km/h | Max=19.50km/h | Records=9
+Chennai_Winter_HUMIDITY	Avg=70.89% | Max=85.00% | Min=55.00% | Records=9
+Chennai_Winter_RAIN	Total=277.00mm | Avg=30.78mm | Max=150.00mm | Records=9
+Chennai_Winter_TEMP	Avg=25.61°C | Max=28.50°C | Min=24.00°C | Records=9
+Chennai_Winter_WIND	Avg=10.72km/h | Max=13.00km/h | Records=9
+Delhi_Autumn_HUMIDITY	Avg=55.00% | Max=65.00% | Min=48.00% | Records=6
+Delhi_Autumn_RAIN	Total=0.00mm | Avg=0.00mm | Max=0.00mm | Records=6
+Delhi_Autumn_TEMP	Avg=23.42°C | Max=32.00°C | Min=15.00°C | Records=6
+Delhi_Autumn_WIND	Avg=9.67km/h | Max=12.50km/h | Records=6
+Delhi_Monsoon_HUMIDITY	Avg=69.08% | Max=88.00% | Min=25.00% | Records=13
+Delhi_Monsoon_RAIN	Total=1265.00mm | Avg=97.31mm | Max=200.00mm | Records=13
+Delhi_Monsoon_TEMP	Avg=33.58°C | Max=42.00°C | Min=30.50°C | Records=13
+Delhi_Monsoon_WIND	Avg=14.50km/h | Max=22.00km/h | Records=13
+Delhi_Summer_HUMIDITY	Avg=23.10% | Max=42.00% | Min=10.00% | Records=10
+Delhi_Summer_RAIN	Total=0.00mm | Avg=0.00mm | Max=0.00mm | Records=10
+Delhi_Summer_TEMP	Avg=37.30°C | Max=46.50°C | Min=24.00°C | Records=10
+Delhi_Summer_WIND	Avg=21.15km/h | Max=28.00km/h | Records=10
+Delhi_Winter_HUMIDITY	Avg=67.62% | Max=82.00% | Min=48.00% | Records=13
+Delhi_Winter_RAIN	Total=42.00mm | Avg=3.23mm | Max=12.00mm | Records=13
+Delhi_Winter_TEMP	Avg=12.75°C | Max=20.00°C | Min=7.00°C | Records=13
+Delhi_Winter_WIND	Avg=8.48km/h | Max=13.50km/h | Records=13
+EXTREME_HEAT_Delhi	ExtremeEvents=5 | MaxValue=46.50
+EXTREME_RAIN_Chennai	Total=1150.00mm | Avg=383.33mm | Max=420.00mm | Records=3
+EXTREME_RAIN_Kolkata	Total=1070.00mm | Avg=356.67mm | Max=380.00mm | Records=3
+EXTREME_RAIN_Mumbai	Total=2230.50mm | Avg=371.75mm | Max=450.00mm | Records=6
+EXTREME_WIND_Mumbai	Avg=33.80km/h | Max=38.00km/h | Records=5
+Kolkata_Autumn_HUMIDITY	Avg=62.67% | Max=68.00% | Min=58.00% | Records=6
+Kolkata_Autumn_RAIN	Total=50.00mm | Avg=8.33mm | Max=30.00mm | Records=6
+Kolkata_Autumn_TEMP	Avg=24.75°C | Max=30.00°C | Min=19.50°C | Records=6
+Kolkata_Autumn_WIND	Avg=9.08km/h | Max=11.50km/h | Records=6
+Kolkata_Monsoon_HUMIDITY	Avg=84.54% | Max=94.00% | Min=70.00% | Records=13
+Kolkata_Monsoon_RAIN	Total=3060.00mm | Avg=235.38mm | Max=380.00mm | Records=13
+Kolkata_Monsoon_TEMP	Avg=30.46°C | Max=32.00°C | Min=29.00°C | Records=13
+Kolkata_Monsoon_WIND	Avg=11.54km/h | Max=13.00km/h | Records=13
+Kolkata_Summer_HUMIDITY	Avg=54.67% | Max=72.00% | Min=42.00% | Records=9
+Kolkata_Summer_RAIN	Total=305.00mm | Avg=33.89mm | Max=100.00mm | Records=9
+Kolkata_Summer_TEMP	Avg=34.50°C | Max=38.00°C | Min=28.00°C | Records=9
+Kolkata_Summer_WIND	Avg=15.78km/h | Max=19.00km/h | Records=9
+Kolkata_Winter_HUMIDITY	Avg=64.22% | Max=72.00% | Min=50.00% | Records=9
+Kolkata_Winter_RAIN	Total=17.00mm | Avg=1.89mm | Max=5.00mm | Records=9
+Kolkata_Winter_TEMP	Avg=18.89°C | Max=25.00°C | Min=16.00°C | Records=9
+Kolkata_Winter_WIND	Avg=7.50km/h | Max=11.00km/h | Records=9
+Mumbai_Autumn_HUMIDITY	Avg=60.83% | Max=68.00% | Min=55.00% | Records=6
+Mumbai_Autumn_RAIN	Total=40.00mm | Avg=6.67mm | Max=25.00mm | Records=6
+Mumbai_Autumn_TEMP	Avg=28.58°C | Max=31.00°C | Min=26.00°C | Records=6
+Mumbai_Autumn_WIND	Avg=10.42km/h | Max=12.50km/h | Records=6
+Mumbai_Monsoon_HUMIDITY	Avg=88.00% | Max=96.00% | Min=72.00% | Records=15
+Mumbai_Monsoon_RAIN	Total=3986.00mm | Avg=265.73mm | Max=450.00mm | Records=15
+Mumbai_Monsoon_TEMP	Avg=27.35°C | Max=30.50°C | Min=25.50°C | Records=15
+Mumbai_Monsoon_WIND	Avg=26.47km/h | Max=38.00km/h | Records=15
+Mumbai_Summer_HUMIDITY	Avg=45.44% | Max=70.00% | Min=30.00% | Records=9
+Mumbai_Summer_RAIN	Total=87.50mm | Avg=9.72mm | Max=45.00mm | Records=9
+Mumbai_Summer_TEMP	Avg=33.77°C | Max=36.50°C | Min=30.20°C | Records=9
+Mumbai_Summer_WIND	Avg=15.96km/h | Max=19.00km/h | Records=9
+Mumbai_Winter_HUMIDITY	Avg=57.69% | Max=65.00% | Min=48.00% | Records=13
+Mumbai_Winter_RAIN	Total=0.20mm | Avg=0.02mm | Max=0.20mm | Records=13
+Mumbai_Winter_TEMP	Avg=25.42°C | Max=28.80°C | Min=22.90°C | Records=13
+Mumbai_Winter_WIND	Avg=11.37km/h | Max=14.00km/h | Records=13

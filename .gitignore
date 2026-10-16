@@ -1,0 +1,19 @@
+# Compiled Java classes
+*.class
+
+# Python bytecode & virtualenvs
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# IDE / Editor metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
